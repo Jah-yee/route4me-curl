@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=http://broono.com/api.v4/route.php
+SET url=http://route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
 SET rdirect=0
 SET routeid=CEAA81617489EC7F8972372F6248946D
