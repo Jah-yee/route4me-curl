@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api/member/view_users.php
+url=https://www.route4me.com/api.v4/user.php
 apikey=11111111111111111111111111111111
 
 # View existing sub-users in a Member's account
