@@ -5,7 +5,7 @@ SET apikey=11111111111111111111111111111111
 
 :: The example refers to the process of getting the locations from an address book by list of location IDs.
 
-SET addr_id=13590500,13590500
+SET addr_id=13590492,13590498
 
 ECHO ON
 
