@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=http://route4me.com/api.v4/route.php
+url=http://api.route4me.com/api.v4/route.php
 apikey=11111111111111111111111111111111
 rdirect=0
 routeid=CEAA81617489EC7F8972372F6248946D
