@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=http://www.route4me.com/api.v4/optimization_problem.php
+SET url=http://api.route4me.com/api.v4/optimization_problem.php
 SET apikey=11111111111111111111111111111111
 SET optprobid=F685A2CC2466AFC4D2D04086897C01AD
 
